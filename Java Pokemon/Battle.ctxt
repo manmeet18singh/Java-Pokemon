@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=pokeballs.add(a);\n\ \ \ \ \ \ \ \ pokeballs.add(b);\n\ \ \ \ \ \ \ \ pokeballs.add(c);\n\ \ \ \ \ \ \ \ pokeballs.add(d);\n\ \ \ \ \ \ \ \ pokeballs.add(e);\n\ \ \ \ \ \ \ \ pokeballs.add(f);\npokeballs.add(g);
+comment1.params=
+comment1.target=void\ randoPoke()
+comment2.params=
+comment2.target=void\ TextBox()
+comment3.params=
+comment3.target=void\ BossTextBox()
+numComments=4
